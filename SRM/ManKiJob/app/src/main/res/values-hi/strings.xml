@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">मन की जॉब </string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="text_accounts">सभी खाते</string>
+    <string name="hint_name">नाम </string>
+    <string name="hint_email">ई-मेल</string>
+    <string name="hint_password">पासवर्ड</string>
+    <string name="hint_confirm_password">पासवर्ड की पुष्टि करे </string>
+    <string name="text_login">लॉग इन </string>
+    <string name="text_register">पंजीकृत करें</string>
+    <string name="error_message_name">पूरा नाम दर्ज करें</string>
+    <string name="error_message_email">मान्य ई-मेल दर्ज करें </string>
+    <string name="error_message_age">आयु दर्ज करें</string>
+    <string name="error_message_password">पासवर्ड दर्ज करें</string>
+    <string name="success_message">पंजीकरण सफल</string>
+    <string name="text_not_member">अभी तक कोई खाता नहीं? अब बनाएँ</string>
+    <string name="text_already_member">पहले से ही एक सदस्य? लॉग इन </string>
+    <string name="error_email_exists">ई-मेल पहले से मौजूद</string>
+    <string name="error_password_match">पासवर्ड  मेल नहीं खाती</string>
+    <string name="error_valid_email_password">गलत ई-मेल या पासवर्ड </string>
+
+    <string name="text_hello">Hello</string>
+    <string name="text_title">Android Tutorials Hub</string>
+    <string name="app_name1">Splash</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings1">सेटिंग्स </string>
+    <string name="text_Signup">नया खाता बनाए </string>
+    <string name="we">स्वागत !!</string>
+    <string name="lo">लॉग इन करे </string>
+    <string name="si">पंजीकृत करें</string>
+
+    <string name="action_settings">Settings</string>
+    <string-array name="spinner_lang">
+        <item>Select language</item>
+        <item>हिंदी</item>
+        <item>English</item>
+    </string-array>
+</resources>
